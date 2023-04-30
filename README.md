@@ -1,4 +1,7 @@
 # Youtube-clone
+
+![image](https://user-images.githubusercontent.com/105915649/235349069-d5f13e9b-cbd3-48e8-b027-0d0379a19d77.png)
+
 ## Tech-Stack Used:
 * HTML
 * CSS
